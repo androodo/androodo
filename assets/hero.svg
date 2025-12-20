@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Animated data stream">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2EE7FF" stop-opacity="0.85"/>
+      <stop offset="60%" stop-color="#2D7DFF" stop-opacity="0.90"/>
+      <stop offset="100%" stop-color="#0B2A4A" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111F"/>
+      <stop offset="100%" stop-color="#0A1A33"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- soft grid -->
+  <g opacity="0.18">
+    <path d="M0 40 H1200 M0 90 H1200 M0 140 H1200 M0 190 H1200 M0 240 H1200"
+          stroke="#BFE7FF" stroke-width="1"/>
+    <path d="M80 0 V260 M200 0 V260 M320 0 V260 M440 0 V260 M560 0 V260 M680 0 V260 M800 0 V260 M920 0 V260 M1040 0 V260 M1160 0 V260"
+          stroke="#BFE7FF" stroke-width="1"/>
+  </g>
+
+  <!-- signal lines -->
+  <g fill="none" stroke="url(#line)" stroke-width="3" opacity="0.9" filter="url(#glow)">
+    <path id="p1" d="M-40 70 C 140 30, 240 120, 380 86 C 520 52, 650 140, 790 110 C 930 80, 1040 140, 1240 90"/>
+    <path id="p2" d="M-40 140 C 120 180, 260 90, 420 130 C 580 170, 720 80, 860 120 C 1000 160, 1080 110, 1240 150" opacity="0.75"/>
+    <path id="p3" d="M-40 200 C 140 240, 300 170, 440 205 C 580 240, 720 160, 880 195 C 1040 230, 1120 170, 1240 210" opacity="0.65"/>
+  </g>
+
+  <!-- moving dots along paths -->
+  <g>
+    <circle r="5" fill="#2EE7FF" opacity="0.95">
+      <animateMotion dur="3.6s" repeatCount="indefinite">
+        <mpath href="#p1"/>
+      </animateMotion>
+    </circle>
+    <circle r="4" fill="#A9DEFF" opacity="0.9">
+      <animateMotion dur="4.3s" repeatCount="indefinite">
+        <mpath href="#p2"/>
+      </animateMotion>
+    </circle>
+    <circle r="4" fill="#2D7DFF" opacity="0.85">
+      <animateMotion dur="5.0s" repeatCount="indefinite">
+        <mpath href="#p3"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- subtle caption (optional) -->
+  <text x="34" y="48"
+        fill="#D9F2FF"
+        opacity="0.85"
+        font-size="16"
+        font-weight="650"
+        letter-spacing="0.6"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial">
+    telemetry • embeddings • agents • pipelines
+  </text>
+</svg>
