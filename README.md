@@ -9,7 +9,7 @@ Repo name should match your username: androodo
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Andrew%20Do&fontAlign=50&fontAlignY=35&desc=Cloud%20%7C%20AI%2FML%20%7C%20Full-stack&descAlign=50&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=Accelerated+B.S.+%2B+M.S.+CS+%40+UC+Riverside+(Jun+2027);Building+cloud-native+systems+and+LLM-powered+products;Backend+%E2%80%A2+Platform+%E2%80%A2+AI%2FML+%E2%80%A2+Full-stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=Accelerated+B.S.+%2B+M.S.+CS+%40+UC+Riverside;Building+cloud-native+systems+and+LLM-powered+products;Backend+%E2%80%A2+Platform+%E2%80%A2+AI%2FML+%E2%80%A2+Full-stack" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@ Repo name should match your username: androodo
 ---
 
 ## 👋 About me
-I’m Andrew — an accelerated **B.S. + M.S. Computer Science** student at **UC Riverside (Jun 2027)** building:
+I’m Andrew — an accelerated **B.S. + M.S. Computer Science** student at **UC Riverside** building:
 - **Cloud-native systems** (APIs, CI/CD, observability, distributed services)
 - **LLM/ML products** (agents, embeddings, eval harnesses, guardrails, anomaly detection)
 - **Full-stack apps** (React/TS + modern backend + Postgres + AWS)
