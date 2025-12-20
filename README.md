@@ -46,20 +46,18 @@ I’m Andrew — an accelerated **B.S. + M.S. Computer Science** student at **UC
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,flask,postgres,mongodb,redis,docker,aws,git,linux&perline=7" />
 </div>
 
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/androodo/androodo/output/snake.svg" alt="snake animation" />
-</div>
-
-
 ---
 
 ## 📊 GitHub activity
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=androodo&show_icons=true&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androodo&layout=compact&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/androodo/androodo/output/snake.svg" alt="snake animation" />
 </div>
 
 ---
