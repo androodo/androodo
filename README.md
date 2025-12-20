@@ -34,7 +34,7 @@ Repo name should match your username: androodo
 ---
 
 ## 👋 About me
-I’m Andrew — an accelerated **B.S. + M.S. Computer Science** student at **UC Riverside** building:
+I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 - **Cloud-native systems** (APIs, CI/CD, observability, distributed services)
 - **LLM/ML products** (agents, embeddings, eval harnesses, guardrails, anomaly detection)
 - **Full-stack apps** (React/TS + modern backend + Postgres + AWS)
