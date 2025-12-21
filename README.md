@@ -12,7 +12,7 @@ Repo name should match your username: androodo
 
 <!-- Typing animation (modern font) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2200&pause=650&center=true&vCenter=true&width=820&color=0B2A4A&lines=Accelerated+B.S.+%2B+M.S.+CS+%40+UC+Riverside+(Jun+2027);Cloud-native+systems+%E2%80%A2+LLM+agents+%E2%80%A2+ML+pipelines;Backend+%E2%80%A2+Platform+%E2%80%A2+AI%2FML+%E2%80%A2+Full-stack"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2200&pause=650&center=true&vCenter=true&width=820&color=0B2A4A&lines=B.S.+%2B+M.S.+CS+%40+UC+Riverside;Cloud-native+systems+%E2%80%A2+LLM+agents+%E2%80%A2+ML+pipelines;Backend+%E2%80%A2+Platform+%E2%80%A2+AI%2FML+%E2%80%A2+Full-stack"
   alt="Typing SVG"
 />
 
@@ -39,7 +39,7 @@ Repo name should match your username: androodo
 ---
 
 ## 👋 About me
-I’m Andrew — a **Computer Science** student at **UC Riverside** (Accelerated **B.S. + M.S.**, **Jun 2027**) building:
+I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 - **Cloud-native systems** (APIs, CI/CD, observability, distributed services)
 - **LLM/ML products** (agents, embeddings, eval harnesses, guardrails, anomaly detection)
 - **Full-stack apps** (React/TS + modern backend + Postgres + AWS)
