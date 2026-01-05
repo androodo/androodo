@@ -56,15 +56,7 @@ I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 ## 📊 GitHub activity
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androodo&theme=github_dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B2A4A?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0B2A4A?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0B2A4A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androodo&theme=github_dark&exclude=html,jupyter%20notebook,css" alt="Top languages" />
 </p>
 
 ---
