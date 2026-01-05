@@ -57,12 +57,12 @@ I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=androodo&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=9BDcff&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400&v=10"
+    src="https://github-readme-stats.vercel.app/api?username=androodo&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=9BDcff&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400&v=11"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=androodo&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BDcff&text_color=C9D1D9&cache_seconds=86400&v=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=androodo&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BDcff&text_color=C9D1D9&cache_seconds=86400&v=11"
     alt="Top languages"
   />
 </div>
