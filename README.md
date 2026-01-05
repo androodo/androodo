@@ -55,9 +55,14 @@ I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 
 ## 📊 GitHub activity
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=androodo&show_icons=true&hide_border=true&cache_seconds=86400&v=1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androodo&layout=compact&hide_border=true&cache_seconds=86400&v=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=androodo&show_icons=true&hide_border=true&hide_rank=true&cache_seconds=86400&v=2" />
+  <img height="165" src="https://streak-stats.demolab.com?user=androodo&theme=github-dark&hide_border=true&v=2" />
 </div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androodo&layout=compact&hide_border=true&cache_seconds=86400&v=2" />
+</div>
+
 
 ---
 
