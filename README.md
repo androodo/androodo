@@ -55,7 +55,7 @@ I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 
 ## 📊 GitHub activity
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androodo&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androodo&theme=nord_dark" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androodo&theme=github_dark" alt="Top languages" />
 </p>
 
