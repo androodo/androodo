@@ -42,7 +42,7 @@ Repo name should match your username: androodo
 I’m Andrew — a **Computer Science** student at **UC Riverside** building:
 - **Cloud-native systems** (APIs, CI/CD, observability, distributed services)
 - **LLM/ML products** (agents, embeddings, eval harnesses, guardrails, anomaly detection)
-- **Full-stack apps** (React/TS + modern backend + Postgres + AWS)
+- **Full-stack apps** (React/TS + modern backend(Python) + Postgres + AWS)
 
 ---
 
