@@ -1,66 +1,171 @@
 <!-- =========================
-Modern GitHub Profile README
-Repo name should match your username: androodo
+Andrew Do — GitHub Profile README
+Repository name: androodo
 ========================== -->
 
 <div align="center">
 
-<!-- Custom banner (light blue + modern + subtle AI/data vibe) -->
-<img width="100%" src="assets/banner.svg" alt="Andrew Do banner" />
-
-<br/>
-
-<!-- Typing animation (modern font) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2200&pause=650&center=true&vCenter=true&width=820&color=0B2A4A&lines=B.S.+%2B+M.S.+CS+%40+UC+Riverside;Cloud-native+systems+%E2%80%A2+LLM+agents+%E2%80%A2+ML+pipelines;Backend+%E2%80%A2+Platform+%E2%80%A2+AI%2FML+%E2%80%A2+Full-stack"
-  alt="Typing SVG"
+width="100%"
+src="assets/banner.svg"
+alt="Andrew Do — Backend, Platform, and AI Infrastructure Engineer"
 />
 
 <br/>
 
-<!-- Social badges -->
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2400&pause=700&center=true&vCenter=true&width=850&color=0B2A4A&lines=Computer+Science+%40+UC+Riverside;Backend+%E2%80%A2+Platform+Engineering+%E2%80%A2+Developer+Tools;AI+Infrastructure+%E2%80%A2+RAG+%E2%80%A2+LLM+Applications"
+alt="Andrew Do's engineering focus"
+/>
+
+<br/>
+
 <a href="https://linkedin.com/in/andrew-do-93b14b17a/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 <a href="mailto:doandrew21@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-0B2A4A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    alt="Email"
+    src="https://img.shields.io/badge/Email-0B2A4A?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 <a href="https://github.com/androodo">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 <br/><br/>
 
-<!-- Animated data/AI hero (SVG animation, no GIF needed) -->
-<img src="assets/hero.svg" width="820" alt="Animated data stream" />
+<img
+src="assets/hero.svg"
+width="820"
+alt="Animated backend and AI data flow"
+/>
 
 </div>
 
 ---
 
 ## 👋 About me
-I’m Andrew — a **Computer Science** student at **UC Riverside** building:
-- **Cloud-native systems** (APIs, CI/CD, observability, distributed services)
-- **LLM/ML products** (agents, embeddings, eval harnesses, guardrails, anomaly detection)
-- **Full-stack apps** (React/TS + modern backend(Python) + Postgres + AWS)
+
+I’m **Andrew Do**, a Computer Science student at **UC Riverside** and a software engineer focused on building reliable **backend systems, platform infrastructure, developer tools, and LLM-powered applications**.
+
+My work sits at the intersection of:
+
+* **Backend and platform engineering** — APIs, data systems, CI/CD, test infrastructure, and deployment automation
+* **Developer productivity** — tools that simplify testing, debugging, reporting, and engineering workflows
+* **AI infrastructure** — embeddings, vector search, retrieval pipelines, evaluations, and model integrations
+* **LLM applications** — agents, RAG, tool calling, structured outputs, and production AI features
+
+I enjoy turning complex engineering processes into systems that are easier to operate, debug, and scale.
 
 ---
 
-## 🧰 Tech stack
+## 🚀 What I’m building
+
+### TriageAI
+
+An AI-powered developer tool that transforms CI/CD failure logs into actionable debugging context.
+
+* Built with **FastAPI, PostgreSQL, pgvector, OpenAI, Next.js, and Docker**
+* Uses embeddings and vector search to retrieve semantically similar failures
+* Generates root-cause summaries and drafts ready-to-file GitHub or Jira issues
+* Connects backend infrastructure, developer tooling, and practical LLM application development
+
+### Hybrid test infrastructure and CI automation
+
+At **Panasonic Avionics**, I work on automation for hybrid test environments that combine cloud-hosted virtual systems with physical aviation hardware.
+
+* Build CI/CD workflows with **Python, Bash, YAML, Docker, pytest, and GitLab CI**
+* Automate environment provisioning, software deployment, testing, snapshots, and reporting
+* Improve traceability across builds, test environments, failures, and validation results
+* Explore AI-assisted failure triage and automated Jira reporting
+
+### LLM applications and agent systems
+
+I have worked on production-oriented AI features using:
+
+* **LangChain and LangGraph**
+* Agent tool calling and workflow orchestration
+* Embeddings, retrieval, and conversational memory
+* Evaluation harnesses, guardrails, and latency optimization
+* Backend APIs connecting models to application data and product workflows
+
+---
+
+## 🧰 Technical toolkit
+
+### Languages
+
+`Python` `TypeScript` `JavaScript` `SQL` `Bash` `C++`
+
+### Backend and APIs
+
+`FastAPI` `Flask` `Django` `Node.js` `Express` `REST APIs` `WebSockets`
+
+### Platform and infrastructure
+
+`Docker` `AWS` `GitLab CI/CD` `Linux` `pytest` `Git` `CI/CD Automation`
+
+### Data systems
+
+`PostgreSQL` `pgvector` `MariaDB` `MongoDB` `Redis` `SQLAlchemy`
+
+### AI engineering
+
+`OpenAI API` `LangChain` `LangGraph` `RAG` `Embeddings` `Vector Search` `LLM Evals`
+
+### Frontend
+
+`React` `Next.js` `TypeScript`
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,flask,postgres,mongodb,redis,docker,aws,git,linux&perline=7" />
+  <img
+    src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,nodejs,postgres,redis,docker,aws,gitlab,git,linux,bash&perline=7"
+    alt="Andrew Do's technical stack"
+  />
 </div>
 
 ---
 
+## 🎯 Engineering interests
+
+I’m especially interested in opportunities involving:
+
+* Backend and distributed systems
+* Platform and infrastructure engineering
+* Developer productivity and internal tooling
+* CI/CD and test automation
+* AI infrastructure and model-powered systems
+* Production LLM and agent applications
+
+---
+
 ## 📊 GitHub activity
+
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androodo&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androodo&theme=github_dark&exclude=html,jupyter%20notebook,css" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androodo&theme=github_dark"
+    alt="Andrew Do's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androodo&theme=github_dark&exclude=html,jupyter%20notebook,css"
+    alt="Andrew Do's most-used GitHub languages"
+  />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/androodo/androodo/output/snake.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/androodo/androodo/output/snake.svg"
+    alt="GitHub contribution animation"
+  />
 </div>
