@@ -66,38 +66,6 @@ I enjoy turning complex engineering processes into systems that are easier to op
 
 ---
 
-## 🚀 What I’m building
-
-### TriageAI
-
-An AI-powered developer tool that transforms CI/CD failure logs into actionable debugging context.
-
-* Built with **FastAPI, PostgreSQL, pgvector, OpenAI, Next.js, and Docker**
-* Uses embeddings and vector search to retrieve semantically similar failures
-* Generates root-cause summaries and drafts ready-to-file GitHub or Jira issues
-* Connects backend infrastructure, developer tooling, and practical LLM application development
-
-### Hybrid test infrastructure and CI automation
-
-At **Panasonic Avionics**, I work on automation for hybrid test environments that combine cloud-hosted virtual systems with physical aviation hardware.
-
-* Build CI/CD workflows with **Python, Bash, YAML, Docker, pytest, and GitLab CI**
-* Automate environment provisioning, software deployment, testing, snapshots, and reporting
-* Improve traceability across builds, test environments, failures, and validation results
-* Explore AI-assisted failure triage and automated Jira reporting
-
-### LLM applications and agent systems
-
-I have worked on production-oriented AI features using:
-
-* **LangChain and LangGraph**
-* Agent tool calling and workflow orchestration
-* Embeddings, retrieval, and conversational memory
-* Evaluation harnesses, guardrails, and latency optimization
-* Backend APIs connecting models to application data and product workflows
-
----
-
 ## 🧰 Technical toolkit
 
 ### Languages
