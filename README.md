@@ -53,16 +53,16 @@ alt="Animated backend and AI data flow"
 
 ## 👋 About me
 
-I’m **Andrew Do**, a Computer Science student at **UC Riverside** and a software engineer focused on building reliable **backend systems, platform infrastructure, developer tools, and LLM-powered applications**.
+I’m **Andrew Do**, a Computer Science student at **UC Riverside** and a software engineer focused on building reliable **AI systems, developer tools, backend infrastructure, and engineering automation**.
 
 My work sits at the intersection of:
 
-* **Backend and platform engineering** — APIs, data systems, CI/CD, test infrastructure, and deployment automation
-* **Developer productivity** — tools that simplify testing, debugging, reporting, and engineering workflows
-* **AI infrastructure** — embeddings, vector search, retrieval pipelines, evaluations, and model integrations
-* **LLM applications** — agents, RAG, tool calling, structured outputs, and production AI features
+* **AI agents & agentic systems** — tool use, agent workflows, context engineering, routing, and LLM integrations
+* **AI evaluation & reliability** — evaluation harnesses, automated grading, model comparisons, testing, and observability
+* **Developer tooling & automation** — tools that automate testing, reporting, CI workflows, and software development processes
+* **Backend & platform engineering** — APIs, distributed systems, CI/CD, deployment infrastructure, and data pipelines
 
-I enjoy turning complex engineering processes into systems that are easier to operate, debug, and scale.
+I enjoy building **reliable AI-powered developer systems** that automate complex engineering workflows and make software easier to build, test, debug, and operate.
 
 ---
 
