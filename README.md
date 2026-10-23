@@ -13,10 +13,12 @@ alt="Andrew Do — Backend, Platform, AI Systems, and Developer Tools"
 
 <br/>
 
+
 <img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2400&pause=700&center=true&vCenter=true&width=850&color=0B2A4A&lines=Computer+Science+%40+UC+Riverside;Backend+%E2%80%A2+Platform+Engineering+%E2%80%A2+Developer+Tools;AI+Infrastructure+%E2%80%A2+RAG+%E2%80%A2+LLM+Applications"
-alt="Andrew Do's engineering focus"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2400&pause=700&center=true&vCenter=true&width=850&color=0B2A4A&lines=Computer+Science+%40+UC+Riverside;Backend+%E2%80%A2+Platform+Engineering+%E2%80%A2+Developer+Tools;AI+Systems+%E2%80%A2+AI+Agents+%E2%80%A2+LLM+Applications"
+  alt="Andrew Do's engineering focus"
 />
+
 
 <br/>
 
