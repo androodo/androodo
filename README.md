@@ -8,7 +8,7 @@ Repository name: androodo
 <img
 width="100%"
 src="assets/banner.svg"
-alt="Andrew Do — Backend, Platform, and AI Infrastructure Engineer"
+alt="Andrew Do — Backend, Platform, AI Systems, and Developer Tools"
 />
 
 <br/>
