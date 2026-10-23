@@ -55,7 +55,8 @@
     </circle>
   </g>
 
-  <!-- subtle caption (optional) -->
+
+  <!-- subtle caption -->
   <text x="34" y="48"
         fill="#D9F2FF"
         opacity="0.85"
@@ -63,6 +64,6 @@
         font-weight="650"
         letter-spacing="0.6"
         font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial">
-    telemetry • embeddings • agents • pipelines
+    test automation • AI agents • developer tools • CI/CD
   </text>
 </svg>
