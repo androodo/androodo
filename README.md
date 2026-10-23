@@ -105,14 +105,17 @@ I enjoy building **reliable AI-powered developer systems** that automate complex
 
 ## 🎯 Engineering interests
 
-I’m especially interested in opportunities involving:
+### Software Engineering & Automation
 
-* Backend and distributed systems
-* Platform and infrastructure engineering
-* Developer productivity and internal tooling
-* CI/CD and test automation
-* AI infrastructure and model-powered systems
-* Production LLM and agent applications
+- **Test automation & CI/CD** — automated testing, regression validation, and reliable deployment pipelines
+- **Backend & platform engineering** — APIs, infrastructure, and scalable backend systems
+- **Developer tools & productivity** — internal tooling, workflow automation, and engineering efficiency
+
+### AI Engineering
+
+- **AI agents & agentic systems** — tool calling, autonomous workflows, and coding agents
+- **LLM evaluation & reliability** — evaluation harnesses, model comparisons, guardrails, and testing
+- **AI-powered developer tools** — intelligent test generation, code automation, and LLM-powered applications
 
 ---
 
